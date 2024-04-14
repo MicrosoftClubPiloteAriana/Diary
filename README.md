@@ -53,4 +53,7 @@ To run this application locally, follow these steps:
 
     Edit Entry: Edit an existing diary entry by searching for it using the title or date.
 
+## Credits
+   Mariem Dorgham
+
 6. Once you are done, you can choose to logout to exit your session.
