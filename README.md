@@ -55,5 +55,3 @@ To run this application locally, follow these steps:
 
 ## Credits
    Mariem Dorgham
-
-6. Once you are done, you can choose to logout to exit your session.
